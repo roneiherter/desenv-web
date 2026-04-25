@@ -1,5 +1,5 @@
 html {
-    background-color: bisque;
+    background-color: rgb(196, 255, 228);
 }
 
 .title {
@@ -9,11 +9,11 @@ html {
 }
 
 header {
-    background-color: rgb(150, 193, 194);
+    background-color: rgb(50, 104, 59);
 }
 
 main {
-    background-color: rgb(174, 255, 228);
+    background-color: rgb(50, 104, 59);
     text-align: center;
 }
 
